@@ -1,12 +1,12 @@
 # About me
 
-Hello I am Nils and I am beginning to study computer science in Germany.
+Hello I am Nils and I am studying computer science in Germany.
 
 ### My skills so far
 
  - intermediate C# with Unity
- - basic Java
- - very, very basic Python
+ - intermediate Java
+ - basic Python
 <!--
 **Anorak-05/Anorak-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
